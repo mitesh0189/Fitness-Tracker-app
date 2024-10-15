@@ -3,9 +3,7 @@
 ## Overview
 Fitness Tracker is a web application designed to help users log their workouts, track their progress, set fitness goals, and view detailed statistics. Admins can manage user accounts, create fitness programs, and analyze user activity. The application features user authentication and data visualization, providing a user-friendly experience for fitness enthusiasts.
 
-## Live Demo
-- **Frontend**: [](https://fitness-tracker-app-nine.vercel.app/)
-- **Backend**: [https://fitness-tracker-app-p8np.onrender.com](https://fitness-tracker-app-p8np.onrender.com)
+git 
 
 ## Admin Credentials for Live Frontend App
 - **Email**: md07@gmail.com
@@ -35,7 +33,7 @@ Fitness Tracker is a web application designed to help users log their workouts, 
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vinitpatel135/Quiz-App.git
+   git clone https://github.com/mitesh0189/Fitness-Tracker-app.git
 2. Navigate to the server folder:
    ```bash
    cd Fitness_Tracker_App/server
