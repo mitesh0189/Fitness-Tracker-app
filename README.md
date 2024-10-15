@@ -3,7 +3,7 @@
 ## Overview
 Fitness Tracker is a web application designed to help users log their workouts, track their progress, set fitness goals, and view detailed statistics. Admins can manage user accounts, create fitness programs, and analyze user activity. The application features user authentication and data visualization, providing a user-friendly experience for fitness enthusiasts.
 
-git 
+
 
 ## Admin Credentials for Live Frontend App
 - **Email**: md07@gmail.com
